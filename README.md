@@ -41,6 +41,12 @@ Every game below runs in the browser, no install. Click a picture to play.
       <br><b><a href="https://github.com/IanSilent/wardbreaker">Wardbreaker</a></b> — a lock-breaking mini-game: draw sigils freehand and deduce which ward wants which.
     </td>
     <td valign="top">
+      <a href="https://iansilent.github.io/white-mask/"><img src="https://raw.githubusercontent.com/IanSilent/white-mask/main/docs/screenshot.jpg" alt="The White Mask"></a>
+      <br><b><a href="https://github.com/IanSilent/white-mask">The White Mask</a></b> — a short masquerade detective: catch what masked guests let slip, expose their lies and answer the Devil.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
       <a href="https://iansilent.github.io/anomalous-pool/"><img src="https://raw.githubusercontent.com/IanSilent/anomalous-pool/main/docs/screenshot.jpg" alt="Anomalous Pool"></a>
       <br><b><a href="https://github.com/IanSilent/anomalous-pool">Anomalous Pool</a></b> — a pool roguelike: colour combos, trick shots and artifacts that turn one shot into a chain reaction.
     </td>
